@@ -1,0 +1,24 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/VashniiTetiana/test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VashniiTetiana/test/issues"
+  },
+  "homepage": "https://github.com/VashniiTetiana/test#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "rimraf": "^3.0.2"
+  }
+}
